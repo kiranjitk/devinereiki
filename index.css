@@ -1,0 +1,228 @@
+* {
+  margin:0;
+  padding:0;
+}
+
+#header {
+ background-image :url('img/index.jpg');
+  height:100%;
+background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:#fff;
+
+}
+
+#header_1 {
+ background-image :url('img/contact.jpg');
+  height:100%;
+background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:#fff;
+
+}
+
+#header_2 {
+ background-image :url('img/about.jpg');
+  height:100%;
+background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:#fff;
+
+}
+
+
+#headerContent h1 {
+  font-family:Poiret One;
+text-transform:uppercase;
+  text-align: center;
+font-size: 110px;
+    letter-spacing: 10px;
+    font-weight: 100;
+    color:#303030;
+    display:block  ;
+    background-color:rgba(255, 255, 255, 0.8);
+
+}
+
+#headerContent h2 {
+  font-family:Roboto Condensed;
+  text-align:left;
+font-size: 75px;
+    letter-spacing: 10px;
+    font-weight: 100;
+    color:#00000;
+    display:block  ;
+    background-color:rgba(255, 255, 255, 0.8);
+
+}
+
+#paragraph p {
+    font-family: Lato ;
+    font-size: 20px;
+    padding: 20px;
+
+}
+
+ #p01 {
+    
+    padding-top: 30px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    font-family: Lato ;
+    font-size: 20px ;
+    font-style: normal;
+    
+    
+   
+}
+
+#p02 {  
+    padding-top: 30px ; 
+    padding-right: 100px;
+    padding-bottom:30px ;
+    padding-left: 100px;
+    font-size: 5px ;
+    font-style: normal;
+    font-family: Lato;}
+
+
+
+ .nav a {
+   display:inline-block;
+   padding:30px;
+   padding-right:50px ;
+   color:black;
+   text-decoration : none;
+   font-size:20px;
+      font-family: Lato;
+    font-weight: bold;
+
+
+ }
+
+  .nav  {
+   display:inline-block;
+   padding:30px;
+   padding-right:50px ;
+   color:white;
+   text-decoration : none;
+   font-size:20px;
+    font-family: Lato;
+    font-weight: bold;
+
+
+ }
+
+
+ #no h1 {
+   font-family:poiret one;
+   font-size:40px;
+   text-align:center;
+   padding-top:25px;
+   letter-spacing:3px;
+   font-weight: 800;
+ }
+
+ #no h2 {
+   font-family:Roboto Condensed;
+   font-size:25px;
+   text-align:center;
+   padding-top:25px;
+   letter-spacing:3px;
+   font-weight: 800;
+ }
+
+ #no hr {
+   width:200px;
+   color:red;
+   margin-top:10px;
+   border:1px solid red;
+ }
+
+ #no img {
+   margin:50px  ;
+   padding-left:50px;
+ }
+
+
+ .nav {
+   text-align:center;
+   margin:0;
+ }
+
+
+
+#superhr {
+  width:1000px;
+   color:red;
+   margin-bottom:30px;
+   border:1px solid red;
+}
+
+#superhr1 {
+  width:200px;
+   color:black;
+   margin-bottom:30px;
+   border:1px solid red;
+}
+#superhr2 {
+  width:1000px;
+   margin-bottom:30px;
+   border:0px;
+}
+
+
+}
+
+
+
+.img-respo {
+  padding:40px;
+}
+
+#par {
+  color:red;
+}
+
+#footer {
+
+  background-color:black;
+
+}
+
+#footer p {
+  color:white;
+  font-family:Lato;
+  margin-top:10px;
+padding-top:20px;
+padding-bottom :30px;
+font-size:20px;
+text-align: center;
+}
+
+#footer h4 {
+  color:white;
+  font-family:poiret one;
+  margin:10px;
+
+}
+#intro{font-family:poiret one;
+    color:black;
+    font-size:45px;
+    text-transform:uppercase;div {
+    width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+}
+
+
+
+
